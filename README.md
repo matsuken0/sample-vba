@@ -1,3 +1,3 @@
 # sample-vba
-Git練習用  
-update-readme 2回目
+このリポジトリはGit動画講座用です。
+ローカルリポで変更
